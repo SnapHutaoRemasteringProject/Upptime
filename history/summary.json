@@ -1,20 +1,20 @@
 [
   {
-    "name": "Official Site",
+    "name": "Official Server",
     "url": "https://snaphutaorp.org",
     "icon": "https://icons.duckduckgo.com/ip3/snaphutaorp.org.ico",
-    "slug": "official-site",
+    "slug": "official-server",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 557,
-    "timeWeek": 631,
-    "timeMonth": 631,
-    "timeYear": 631,
+    "time": 665,
+    "timeDay": 665,
+    "timeWeek": 665,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {}
   }
 ]
